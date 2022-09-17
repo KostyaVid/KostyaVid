@@ -1,4 +1,12 @@
-### Hi there 👋
+### 🛠 Tech Stack
+<span><img src="https://img.shields.io/badge/-HTML5-orange"></span>
+<span><img src="https://img.shields.io/badge/-CSS3-informational"></span>
+<span><img src="https://img.shields.io/badge/-JavaScript-yellow"></span>
+<span><img src="https://img.shields.io/badge/-TypeScript-blue"></span>
+<span><img src="https://img.shields.io/badge/-Sass-red"></span>
+<span><img src="https://img.shields.io/badge/-React-%2361dafb"></span>
+<span><img src="https://img.shields.io/badge/-ReduxToolkit-%23764abc"></span>
+<span><img src="https://img.shields.io/badge/-VSCode-blue"></span>
 
 <!--
 **KostyaVid/KostyaVid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

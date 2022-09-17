@@ -6,6 +6,7 @@
 <span><img src="https://img.shields.io/badge/-Sass-red"></span>
 <span><img src="https://img.shields.io/badge/-React-%2361dafb"></span>
 <span><img src="https://img.shields.io/badge/-ReduxToolkit-%23764abc"></span>
+<span><img src="https://img.shields.io/badge/-Tailwind-%0f1720"></span>
 <span><img src="https://img.shields.io/badge/-VSCode-blue"></span>
 
 <!--

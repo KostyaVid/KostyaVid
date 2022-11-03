@@ -2,7 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## About me
-
 My name is Konstantin Vidyakin. I'm learning front-end development mainly with ReactJS.
 
 ### ✉️ Links
